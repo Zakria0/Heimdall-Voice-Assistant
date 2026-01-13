@@ -1,0 +1,7 @@
+.venv/
+dataset/
+__pycache__/
+*.wav
+*.flac
+*.m4a
+*.tar.gz

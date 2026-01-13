@@ -107,9 +107,9 @@ python main.py
 3. Commands: Press ENTER and say:
     _"Turn on the lights"_
     _"Open the front door"_
-    _"What is the temperature?:
+    _"What is the temperature?_
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 train.py: Downloads data, extracts features, and trains the ML ensemble.
@@ -120,13 +120,13 @@ record_training.py: Helper tool to record short command clips for fine-tuning.
 ```
 dataset/: Folder containing raw audio samples (Git ignored).
 ```
-## 🛡 Privacy Note
+## Privacy Note
 
 This project runs biometric verification locally. However, the Speech-to-Text (ASR)
 component currently uses Google's Web API, which requires an internet connection. Future
 versions will support offline ASR via Vosk or Whisper.
 
-## 👨‍💻 Author
+## Author
 
 Zakaria Oulhadj
 

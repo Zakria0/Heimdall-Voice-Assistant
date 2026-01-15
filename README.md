@@ -5,6 +5,8 @@ biometric speaker recognition. Unlike standard assistants (Alexa/Siri) that obey
 Heimdall uses machine learning to verify _who_ is speaking before executing sensitive commands
 like unlocking doors or disabling security systems.
 
+[![Watch the video](https://img.youtube.com/vi/DgM4nUN5wlE/maxresdefault.jpg)](https://youtu.be/DgM4nUN5wlE)
+
 ## How It Works
 
 1. Listen: Captures audio command via microphone.
